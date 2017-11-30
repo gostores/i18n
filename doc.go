@@ -1,1 +1,1 @@
-package require
+package i18n
