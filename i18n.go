@@ -1,5 +1,5 @@
 /*=================================
-* Copyright(c)2017 gostores
+* Copyright(c)2017 govenue
 * From: github.com/Unknwon/i18n
 *=================================*/
 package i18n
@@ -10,7 +10,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/gostores/encoding/ini"
+	"github.com/govenue/encoding/ini"
 )
 
 var (

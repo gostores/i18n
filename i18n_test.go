@@ -1,5 +1,5 @@
 /*=================================
-* Copyright(c)2017 gostores
+* Copyright(c)2017 govenue
 * From: github.com/Unknwon/i18n
 *=================================*/
 package i18n
